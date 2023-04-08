@@ -1,4 +1,4 @@
-const server = require('./src/routes/index.js');
+const server = require('./src/routes/index');
 const db = require('./src/config/db');
 const keys = require('./src/config/keys');
 
